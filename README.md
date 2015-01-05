@@ -14,6 +14,7 @@ You may want to assign e.g. Alt-F3 for convenience.
 
 1. [**GoToFrameNumberUnderCursor**](GoToFrameNumberUnderCursor.py)
 2. [**InsertFrameNumberAndSpace**](InsertFrameNumberAndSpace.py) - useful for [rfs()](http://forum.doom9.org/showpost.php?p=1644971&postcount=28 RemapFrames)
+3. [**FrameNumberToClipboard**](FrameNumberToClipboard.py) - copies currently shown frame number to clipboard
 
 # III. Color
 
